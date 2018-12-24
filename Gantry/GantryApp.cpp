@@ -2,6 +2,9 @@
 GantryApp.cpp
 **************************************************************
 
+
+// testing this repository
+
 Runs repeated trials of the snake robot experiment using the automated gantry system.
 
 Dependencies:
@@ -25,7 +28,7 @@ Steps marked with + are probably already done and only included for completeness
 6.	+ Type cd D:\Gantry\GantryApp\GantryApp\Debug to switch to the appropriate directory
 7.	Type GantryApp  to begin the app
 8.	Give the name of the most current Optitrack calibration file when prompted (current file is Snake12.ttp )
-9.	Give the name of a .csv file to write the optitrack data. This file will be created if it doesn’t exist already. Ex. Ianoutput.csv
+9.	Give the name of a .csv file to write the optitrack data. This file will be created if it doesnï¿½t exist already. Ex. Ianoutput.csv
 10.	Type COM13  when prompted for the Com Port
 11.	Program will start to run. Monitor progress in the command line, and follow steps bellow if something goes wrong:
 
